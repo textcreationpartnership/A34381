@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A continuation of the inquest after blood and goal-delivery of Newgate, April 3, 1670</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34381</idno>
+            <idno type="STC">Wing C5966</idno>
+            <idno type="STC">ESTC P146</idno>
+            <idno type="EEBO-CITATION">15509460</idno>
+            <idno type="OCLC">ocm 15509460</idno>
+            <idno type="VID">103621</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103621)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A continuation of the inquest after blood and goal-delivery of Newgate, April 3, 1670</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.LXX [1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Criminal procedure --  England.</term>
+               <term>Criminal law --  England.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:103621:1"/>
+            <head>
+               <label type="milestone">
+                  <seg type="milestoneunit">Numb </seg>2</label> A CONTINUATION OF THE Inqueſt after Blood, AND <hi>Goal-Delivery of NEWGATE,</hi> April 13. 1670.</head>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Licenſed,</hi>
+                     </p>
+                     <closer>
+                        <date>April 19. 1670.</date>
+                        <signed>Roger L'Eſtrange.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <label>MARCH 1.</label>
+               <hi>VPon an Inquiry made of the death of</hi> Elizabeth Moorehead <hi>wife of</hi> Jo<g ref="char:EOLhyphen"/>ſeph Moorehead <hi>in</hi> Houndſditch <hi>of St.</hi> Botolph Biſhopſgate <hi>Grocer, ſhe was found to have been ſmother'd with ſmoke, af<g ref="char:EOLhyphen"/>ter the manner following: On the day imme<g ref="char:EOLhyphen"/>diately preceding, there happen'd a fire to break forth in their Manſion-houſe, which portended much danger, had it not been timely ſtop'd by the vigilance of the Magiſtrates, and the di<g ref="char:EOLhyphen"/>ligence of Neighbours. After the loud report thereof had awaken'd thoſe of the Family (for it was about Midnight) every one endeavou<g ref="char:EOLhyphen"/>ring Self-preſervation, they all ſoon eſcaped into the Street, this Gentlewoman onely above<g ref="char:EOLhyphen"/>named remaining within doors. After a ſmall ſpace of time, her Husband unceſſantly ur<g ref="char:EOLhyphen"/>ged ſome perſons about him to attempt her reſcue, which ſome readily undertook; one whereof went up a Ladder to the Chamber<g ref="char:EOLhyphen"/>window, which was Two-ſtory-high, and there ſaw her; but by reaſon of the abundance of ſmoke iſſuing out at the Window, he was forc'd to haſten down without ſucceſs; but others venturing in at the Chamber-door, did vio<g ref="char:EOLhyphen"/>lently, with ſome hazard of their own lives, pull her forth, but the ſmoke had ſo much ſuf<g ref="char:EOLhyphen"/>focated her before they could come to her relief, that ſhe inſtantly dyed, being at that time big with Child, within a day or two of her ex<g ref="char:EOLhyphen"/>pected delivery.</hi>
+            </p>
+            <p>March 5. James Tedcaſtle <hi>of St.</hi> Savi<g ref="char:EOLhyphen"/>ours Southwark <hi>Glover, cut his own Throat with a Pair of Sheers that he made uſe of in his Trade; he was aged about 80 years old, (and for ought that could be known) upon no other conſideration, but his former proſperity, and preſent poverty, together with his unwil<g ref="char:EOLhyphen"/>lingneſs to be burthenſom to his Friends and Relations, he thus laid violent hands on him<g ref="char:EOLhyphen"/>ſelf: He liv'd one day and night after the wound was given, for the</hi> aſpera arteria, <hi>com<g ref="char:EOLhyphen"/>monly called the Wind-pipe, was untouched, which time he confeſs'd that he took up and laid down again the ſaid Sheers, about 20 times before he wounded himſelf: He was found by the Coroners Inqueſt, to be</hi> felo de ſe.</p>
+            <p>Ditto. Anthony Garret, <hi>a Carpenters Servant, was, together with ſome others, em<g ref="char:EOLhyphen"/>ploy'd to hoiſt up a piece of Timber for the building of the</hi> Apothecaries Hall <hi>in</hi> Black<g ref="char:EOLhyphen"/>fryers, <hi>which ſuddenly and accidentally fell on him, and mortally bruiſed the right ſide of his Belly, whereof he inſtantly dyed.</hi>
+            </p>
+            <p>Ditto. <hi>There was Inquiſition taken of the death of</hi> Henry Gutheridge <hi>of St.</hi> Sepul<g ref="char:EOLhyphen"/>chres <hi>Blackſmith: Although his death was natural, yet there was ſufficient reaſon to ſuſ<g ref="char:EOLhyphen"/>pect otherwiſe.</hi> March 4. <hi>He was drinking Strong-waters with ſome of his acquaintance in</hi> Biſhopſgate <hi>Pariſh, where he ſeem'd as chearful and healthful as at other times; and, to the aſtoniſhment of his Friends with him, he ſuddenly,</hi> inter calicem ſupremaque labra, <hi>fell down dead! They had not drank to Ex<g ref="char:EOLhyphen"/>ceſs, neither were any of the Fellow-ſharers of the ſame Liquor, then, or ſince, ſenſible of any alteration or abatement of their bodily health.</hi>
+            </p>
+            <p>March 9. <hi>Inquiſition was had of a cer<g ref="char:EOLhyphen"/>tain Male-Baſtard-Child, born of the body of</hi> Hannah Whitford, <hi>Servant to one</hi> William Newel, <hi>of Great St.</hi> Bartholomews <hi>Salter: She never before diſcover'd her ſelf to be with Child, but upon her frequent qualms of Sto<g ref="char:EOLhyphen"/>mach, and other indiſpoſitions incident to Women with Child; ſhe impos'd upon thoſe that knew her, to believe that ſhe was troubled with the Scurvy and Dropſie, till at laſt a buſie</hi>
+               <pb facs="tcp:103621:2"/> 
+               <hi>Nurſe, who us'd to frequent the Houſe, gave occaſion of ſuſpition that ſhe was deliver'd of a Child; which upon ſtrict ſearch made on her body, and urging her to a Confeſſion, ſhe acknowledged, and directed a Midwife to open a Cupboard in her Chamber, where the ſaid Baſtard-Child was found, wrap'd up in a Petty-Coat. She was brought to Bed alone, and conceal'd it from Morning to the Evening: She was Servant to a profeſſed Quaker, and alledg'd, ſhe was promiſed marriage by a per<g ref="char:EOLhyphen"/>ſon unknown to the Family, the who, was the ſuppoſed father of the Child. She remains in</hi> Newgate, <hi>and more of her hereafter.</hi>
+            </p>
+            <p>March 11. <hi>The Corps of</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liz. Lloyd, <hi>Wife of</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o. Lloyd <hi>of St.</hi> Saviours South<g ref="char:EOLhyphen"/>wark <hi>Labourer, was prohibited from being interr'd, till Inquiſition was first had, foraſ<g ref="char:EOLhyphen"/>much as ſhe was ſuppoſed to have been kill'd by her Husband</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o. Lloyd <hi>aforeſaid; the proofs for this, were ſuch only as ſhe acquaint<g ref="char:EOLhyphen"/>ed her Friends of, as, that her Husband not long before ſtruck her o're the Belly with a Cudgel, and that at ſund<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y times he had threatned to kill her; her Belly and Breaſts were ſomewhat ſwell'd: A Chyrurgion, upon the Diſſection of that part of the Body, was ra<g ref="char:EOLhyphen"/>ther inclin'd to believe ſhe dyed of an Ulcer in her Lungs: ſo that it was doubtful, whether ſhe dyed by this ſuppoſed violent ſtroke, or na<g ref="char:EOLhyphen"/>turally. Her Husband however was commit<g ref="char:EOLhyphen"/>ted to Priſon, and a Proſecution was intended; but he has ſince been call'd before the Tribu<g ref="char:EOLhyphen"/>nal of Heaven, where his Conſcience will be a Thouſand Witneſſes. He dyed</hi> March 17. <hi>following, in the</hi> Marſhalſea'<hi>s Priſon in</hi> Southwark.</p>
+            <p>March 15. <hi>One</hi> Edward Winball, <hi>a poor labouring man, having a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odd full of Morter on his ſhoulder, ſell off a Ladder about Two<g ref="char:EOLhyphen"/>ſtory, by which fall he was very much bruiſed, rendred ſpeechleſs, and ſoon after dyed in St.</hi> Giles Cripplegate.</p>
+            <p>The Goal-delivery of <hi>Newgate,</hi> holden at <hi>Juſtice-Hall</hi> in the <hi>Old Bayly,</hi> April 13.</p>
+            <p>
+               <hi>THe firſt that was Indicted, was</hi> Han<g ref="char:EOLhyphen"/>nah Whitford <hi>aforeſaid; ſhe pleaded to the Indictment, that her Child was born dead, and withall produced one Witneſs to prove ſhe cryed out; ſo that the Court direct<g ref="char:EOLhyphen"/>ed the Jury to find a Special Verdict, which accordingly they did; this their Verdict is to be Controverted before the Judges, and as they ſhall determine in that point of the Sta<g ref="char:EOLhyphen"/>tute which concerns this preſent Caſe, ſo it muſt fare with her either as to Life or Death.</hi>
+            </p>
+            <p>
+               <hi>Eleven Men and two Women were found guilty of ſeveral Felonies, and beg'd the favor of Tranſportation, which was granted them.</hi>
+            </p>
+            <p>
+               <hi>One Woman, being a Notorious Thief, was Branded in the Hand.</hi>
+            </p>
+            <p>
+               <hi>Four were found guilty of Man-ſlaughter.</hi>
+            </p>
+            <p>
+               <hi>One, for killing his Wife, by throwing a a pair of Taylors Sheers at her, and wounding her ſo deſperately in her Groin, that ſhe in<g ref="char:EOLhyphen"/>ſtantly dyed.</hi>
+            </p>
+            <p>
+               <hi>A ſecond, for kicking one at Nine-pin play<g ref="char:EOLhyphen"/>ing, of which he dyed ſome dayes after.</hi>
+            </p>
+            <p>
+               <hi>A third, for killing a man by Wreſtling.</hi>
+            </p>
+            <p>
+               <hi>A fourth, for killing a Boy by throwing a ſtone, though it did appear, he kill'd not him <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whom he aimed his throw.</hi>
+            </p>
+            <p>
+               <hi>Three of theſe were Burn't in the Hand, upon their allowance of the Benefit of Clergy; and one to be Tranſported, by ſpecial Order of the Court.</hi>
+            </p>
+            <p>
+               <hi>Two Felons alſo were Burn't in the Hand for ſtealing of Cows.</hi>
+            </p>
+            <p>
+               <hi>Three received judgment to dye (viz.) Two men for breaking open Houſes, and ſteal<g ref="char:EOLhyphen"/>ing Goods, but were Reprieved after Judge<g ref="char:EOLhyphen"/>ment given.</hi>
+            </p>
+            <p>
+               <hi>Alſo one Woman named</hi> Mary Line, <hi>for Murdering her Baſtard-Child, which ſhe choaked, by thruſting a Cloth down its mouth; ſhe was a blind Woman, and was Executed</hi> April 20 <hi>following, at</hi> Tyburn.</p>
+            <p>
+               <hi>A man and his wife were Indicted for Mur<g ref="char:EOLhyphen"/>dering Mr.</hi> Stiveings <hi>a Merchant, by Piſtol<g ref="char:EOLhyphen"/>ling him in the Head. At the Tryal there was an accumulation of ſo many Circumſtances, as that it was evident he kill'd not himſelf, which the Priſoners pleaded: but, however, the Jury acquitted them, and brought them in,</hi> Not Guilty.</p>
+            <p>☞ There is a Perſon in the Goal, that is ſuſpect<g ref="char:EOLhyphen"/>ed for ſeveral Felonies, Robberies, and Trea<g ref="char:EOLhyphen"/>ſon; he hath gone by the Names of <hi>Bathazar,</hi> alias <hi>Baskervile,</hi> alias <hi>Dormer,</hi> alias <hi>Ma<g ref="char:EOLhyphen"/>thews,</hi> alias <hi>Slader,</hi> found with four different colour'd Perriwiggs, and Pick-locks in his pock<g ref="char:EOLhyphen"/>et. He was brought to <hi>Newgate,</hi> April 10. by a Writ of <hi>Habeas Corpus,</hi> from <hi>Rutland</hi> Goal. He boaſts himſelf to be Some-body, and poſ<g ref="char:EOLhyphen"/>ſibly next Seſſions will diſcover more clearly who, and what he is.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho: Newcomb,</hi> in the <hi>Savoy.</hi> M. DC. LXX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
